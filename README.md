@@ -1,6 +1,6 @@
 👋 Hey, I’m Raed Rahman
 
-An UWaterloo Systems Design Engineering Student 
+An University of Waterloo Systems Design Engineering Student 
 
 Seeking Winter 2024-2025 Co-op opportunities in SWE, QA, & PM.
 
