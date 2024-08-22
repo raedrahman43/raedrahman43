@@ -18,7 +18,9 @@ I’m excited to leverage the University of Waterloo's experiential learning to 
 ⚡ More about me!
 - Me and my team of 4 came 1st Place For Best Use Of - Mongodb atlas @RhythmHacks
 - 1st Place in Waterloo EV Challenge - 24 Volt Race - Team Win For LHSS
-- I am also huge sports person, with deep involvements in sports such as soccer, basketball, badminton, weightlifting and many more! 
+- I am also huge sports person, with deep involvements in sports such as soccer, basketball, badminton, weightlifting and many more!
+
+🚀 Every project serves as a valuable opportunity for learning and growth. I eagerly embrace challenges that expand my skills, consistently seeking ways to push the limits of what I can accomplish.
 
 <!---
 raedrahman43/raedrahman43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
