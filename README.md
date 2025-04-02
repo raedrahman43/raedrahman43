@@ -2,7 +2,7 @@
 
 An University of Waterloo Systems Design Engineering Student 
 
-Seeking Winter 2024-2025 Co-op opportunities in SWE, QA, & PM.
+Seeking Fall 2025 Co-op opportunities in SWE, QA, & PM.
 
 Experienced in SWE, QA, and PM, with multiple internships, like at ZeuZ Automation Solutionz, where I automated 100+ test scripts for Android and web apps. I’ve led teams of 450+ in organizing 10+ events, raising $13K for school initiatives, and worked internationally as a tutor. My entrepreneurial spirit shines through projects like Mergency, where I surveyed 300+ students, conducted market research, and projected $750K in revenue over the next decade. I've consistently ranked in the 95th percentile in competitions and earned over $75K in scholarships.
 I’m excited to leverage the University of Waterloo's experiential learning to combine my agile development skills with leadership experience for future co-op opportunities. Let’s chat about Engineering, Finance, Tech, or Product — feel free to DM me!
