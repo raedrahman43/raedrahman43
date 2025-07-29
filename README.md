@@ -2,7 +2,7 @@
 
 An University of Waterloo Systems Design Engineering Student 
 
-Seeking Fall 2025 Co-op opportunities in SWE, QA, & PM.
+Seeking Summer 2026 Co-op/ Internship opportunities in Product Management, Project Management, Program Management.
 
 Software Engineer and Product Manager with internship experience at ZeuZ AI and i4i, where I maintained 200+ test scripts for desktop and web apps. I've led teams of 450+, organized 10+ events, raised $13K+ in school initiatives, and taught internationally. As the founder of 3+ startups with projected revenues exceeding $750K, I’ve earned top 1% rankings in national competitions and secured over $75K in scholarships.
 
