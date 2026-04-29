@@ -3,7 +3,7 @@
 An University of Waterloo Systems Design Engineering Student 
 
 
-Incoming Product Manager Intern at Microsoft with internship experiences at AltaML, ZeuZ AI and i4i, where I maintained 200+ test scripts for desktop and web apps. I've led teams of 450+, organized 10+ events, raised $13K+ in school initiatives, and taught internationally. As the founder of 3+ startups with projected revenues exceeding $750K, I’ve earned top 1% rankings in national competitions and secured over $75K in scholarships.
+Product Manager Intern at Microsoft with internship experiences at AltaML, ZeuZ AI and i4i, where I maintained 200+ test scripts for desktop and web apps. I've led teams of 450+, organized 10+ events, raised $13K+ in school initiatives, and taught internationally. As the founder of 3+ startups with projected revenues exceeding $750K, I’ve earned top 1% rankings in national competitions and secured over $75K in scholarships.
 
 I’m excited to leverage the University of Waterloo's experiential learning to combine my agile development skills with leadership experience for future co-op opportunities. Let’s chat about Engineering, Finance, Tech, or Product — feel free to DM me!
 
