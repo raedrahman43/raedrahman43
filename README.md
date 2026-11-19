@@ -1,4 +1,10 @@
-# raed rahman
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/name-light.svg">
+    <img alt="Raed Rahman" src="assets/name-light.svg" width="296" height="52">
+  </picture>
+</h1>
 
 **AI & Product**
 
