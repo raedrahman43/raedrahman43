@@ -3,7 +3,7 @@
 **AI & Product**
 
 <img src="assets/datadog.svg" height="20" alt="Datadog logo" /> Incoming **Product Manager Intern at Datadog**, Winter 2027.  
-<img src="assets/waterloo.png" height="22" alt="University of Waterloo logo" /> **Systems Design Engineering** at the University of Waterloo.  
+<img src="assets/waterloo-badge.png" height="32" alt="University of Waterloo logo" /> **Systems Design Engineering** at the University of Waterloo.  
 **$20K+ in scholarships** from the University of Waterloo.
 
 ### *what I've been building:*
@@ -17,8 +17,8 @@
 
 - <img src="assets/microsoft.svg" height="18" alt="Microsoft logo" /> **Microsoft** - Product Manager Intern. AI policy migration prototype; **80% less manual migration time**, working with engineers, security architects, and Fortune 100 companies.
 - <img src="assets/altaml.png" height="22" alt="AltaML logo" /> **AltaML** - AI Product Manager Intern. AI sales dialer; **30-35% increase in appointment conversions**.
-- <img src="assets/i4i.png" height="22" alt="i4i logo" /> **i4i** - Software Development Engineer in Test Intern. Identified a **$500K+ operational efficiency gap**.
-- <img src="assets/waterloo.png" height="22" alt="University of Waterloo logo" /> **Research at UWaterloo**.
+- <img src="assets/i4i-badge.png" height="28" alt="i4i logo" /> **i4i** - Software Development Engineer in Test Intern. Identified a **$500K+ operational efficiency gap**.
+- <img src="assets/waterloo-badge.png" height="32" alt="University of Waterloo logo" /> **Research at UWaterloo**.
 
 ---
 
