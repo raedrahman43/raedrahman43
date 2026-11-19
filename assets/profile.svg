@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1080" viewBox="0 0 900 1080" role="img" aria-labelledby="title desc">
+<title id="title">Raed Rahman · AI &amp; Product</title><desc id="desc">Portfolio highlights, projects, experience, education, and signature. A text version and project links appear below this card in the README.</desc>
+<defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#242626"/></pattern><radialGradient id="glow"><stop stop-color="#193842" stop-opacity=".4"/><stop offset="1" stop-color="#090b0c" stop-opacity="0"/></radialGradient></defs>
+<rect width="900" height="1080" rx="16" fill="#090b0c"/><rect width="900" height="1080" rx="16" fill="url(#dots)"/><ellipse cx="780" cy="380" rx="260" ry="310" fill="url(#glow)"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#afb4b6">
+<text x="48" y="62" font-size="23" fill="#f3f4f3" font-weight="700">raed rahman</text>
+<text x="686" y="62" font-size="14" fill="#91a6ac" font-weight="400">AI &amp; PRODUCT</text>
+<path d="M48 83H852" stroke="#303435"/>
+<path d="M49 118l5-5 5 5-5 5z" fill="#c5cece"/>
+<text x="70" y="125" font-size="20" fill="#dfe5e5" font-weight="400">Incoming Product Manager Intern at Datadog · Winter 2027</text>
+<path d="M49 157l5-5 5 5-5 5z" fill="#c5cece"/>
+<text x="70" y="164" font-size="19" fill="#afb4b6" font-weight="400">Systems Design Engineering · University of Waterloo</text>
+<path d="M49 196l5-5 5 5-5 5z" fill="#c5cece"/>
+<text x="70" y="203" font-size="19" fill="#afb4b6" font-weight="400">Research at Waterloo</text>
+<path d="M49 259l5-5 5 5-5 5z" fill="#c5cece"/>
+<text x="70" y="266" font-size="21" fill="#e1e4e4" font-weight="400" font-style="italic">what I’ve been building:</text>
+<text x="70" y="310" font-size="20" fill="#afb4b6" font-weight="400">↳</text>
+<text x="100" y="310" font-size="21" fill="#f2f4f4" font-weight="700">Overheard</text>
+<text x="100" y="340" font-size="19" fill="#afb4b6" font-weight="400">Normalized 1M+ feedback records; research cycles from weeks to hours.</text>
+<text x="70" y="385" font-size="20" fill="#afb4b6" font-weight="400">↳</text>
+<text x="100" y="385" font-size="21" fill="#f2f4f4" font-weight="700">SpectraSphere</text>
+<text x="100" y="415" font-size="19" fill="#afb4b6" font-weight="400">Snap Inc. API Prize at Hack the North; 120K+ demo impressions.</text>
+<text x="70" y="460" font-size="20" fill="#afb4b6" font-weight="400">↳</text>
+<text x="100" y="460" font-size="21" fill="#f2f4f4" font-weight="700">Chattronix AI</text>
+<text x="100" y="490" font-size="19" fill="#afb4b6" font-weight="400">Built to $6K MRR; reduced clients’ manual operations by 65%.</text>
+<text x="70" y="535" font-size="20" fill="#afb4b6" font-weight="400">↳</text>
+<text x="100" y="535" font-size="21" fill="#f2f4f4" font-weight="700">Copilot Bridge</text>
+<text x="100" y="565" font-size="19" fill="#afb4b6" font-weight="400">Browser-context prototype connecting the page to Microsoft Copilot.</text>
+<path d="M49 620l5-5 5 5-5 5z" fill="#c5cece"/>
+<text x="70" y="627" font-size="21" fill="#e1e4e4" font-weight="400" font-style="italic">previously:</text>
+<rect x="101" y="654" width="9" height="9" fill="#f25022"/>
+<rect x="112" y="654" width="9" height="9" fill="#7fba00"/>
+<rect x="101" y="665" width="9" height="9" fill="#00a4ef"/>
+<rect x="112" y="665" width="9" height="9" fill="#ffb900"/>
+<text x="132" y="672" font-size="20" fill="#f2f4f4" font-weight="700">Microsoft</text>
+<text x="245" y="672" font-size="19" fill="#afb4b6" font-weight="400">· Product Manager Intern</text>
+<text x="100" y="702" font-size="19" fill="#afb4b6" font-weight="400">AI policy migration prototype; 80% less manual migration time.</text>
+<rect x="101" y="726" width="20" height="20" rx="4" fill="#dd643c"/>
+<text x="105" y="742" font-size="14" fill="#fff" font-weight="700">A</text>
+<text x="132" y="744" font-size="20" fill="#f2f4f4" font-weight="700">AltaML</text>
+<text x="212" y="744" font-size="19" fill="#afb4b6" font-weight="400">· AI Product Manager Intern</text>
+<text x="100" y="774" font-size="19" fill="#afb4b6" font-weight="400">AI sales dialer; 30–35% increase in appointment conversions.</text>
+<rect x="101" y="798" width="20" height="20" rx="4" fill="#4479b5"/>
+<text x="103" y="812" font-size="10" fill="#fff" font-weight="700">i4i</text>
+<text x="132" y="816" font-size="20" fill="#f2f4f4" font-weight="700">i4i</text>
+<text x="161" y="816" font-size="19" fill="#afb4b6" font-weight="400">· Software Development Engineer in Test Intern</text>
+<text x="100" y="846" font-size="19" fill="#afb4b6" font-weight="400">Identified a $500K+ operational efficiency gap.</text>
+<path d="M49 888l5-5 5 5-5 5z" fill="#c5cece"/>
+<text x="70" y="895" font-size="19" fill="#c3cdce" font-weight="400">$20K+ in scholarships from the University of Waterloo</text>
+<rect x="48" y="926" width="804" height="54" rx="9" fill="#191d1e" stroke="#3a4244"/>
+<text x="320" y="960" font-size="18" fill="#e5eaea" font-weight="400">see what I’ve built · raedrahman.com</text>
+</g><text x="842" y="1044" text-anchor="end" font-family="Segoe Script, Brush Script MT, cursive" font-style="italic" font-size="49" fill="#c7cecf">Raed Rahman</text></svg>

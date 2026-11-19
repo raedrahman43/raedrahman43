@@ -1,29 +1,44 @@
-👋 Hey, I’m Raed Rahman
+<a href="https://raedrahman.com"><img src="assets/profile.png" width="900" alt="Raed Rahman · AI and Product. Incoming PM Intern at Datadog, Systems Design Engineering at Waterloo, Research at Waterloo. Project and experience highlights; full text below." /></a>
 
-An University of Waterloo Systems Design Engineering Student 
+<p align="center">
+  <a href="https://raedrahman.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/raed-rahman-a59073203/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:raedrahman43@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://x.com/raed_r43">X</a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/raedrahman43/OverHeard">Overheard</a> &nbsp;·&nbsp;
+  <a href="https://github.com/raedrahman43/SpectraSphere">SpectraSphere</a> &nbsp;·&nbsp;
+  <a href="https://github.com/raedrahman43/ChatTronix-AI">Chattronix AI</a> &nbsp;·&nbsp;
+  <a href="https://github.com/raedrahman43/Copilot-Bridge">Copilot Bridge</a>
+</p>
 
-Product Manager Intern at Microsoft with internship experiences at AltaML, ZeuZ AI and i4i, where I maintained 200+ test scripts for desktop and web apps. I've led teams of 450+, organized 10+ events, raised $13K+ in school initiatives, and taught internationally. As the founder of 3+ startups with projected revenues exceeding $750K, I’ve earned top 1% rankings in national competitions and secured over $75K in scholarships.
+<details>
+<summary>Read the text version</summary>
 
-I’m excited to leverage the University of Waterloo's experiential learning to combine my agile development skills with leadership experience for future co-op opportunities. Let’s chat about Engineering, Finance, Tech, or Product — feel free to DM me!
+### Raed Rahman · AI & Product
 
-📫 How to reach me
-  - Personal Email: raedrahman43@gmail.com
-  - School Email: r24rahma@uwaterloo.ca
-  - Phone Number: 519-729-7277
-    
-📄 Know about my experiences
-- [Linkedin.com/Raed](https://www.linkedin.com/in/raed-rahman-a59073203/)
+- Incoming Product Manager Intern at **Datadog**, Winter 2027.
+- **Systems Design Engineering** at the University of Waterloo.
+- **Research at Waterloo**.
+- **$20K+ in scholarships** from the University of Waterloo.
 
-⚡ More about me!
-- 🏆 Winner of the Snap Inc. API Prize at Hack the North 2025 🏆
-- Me and my team of 4 came 1st Place For Best Use Of - Mongodb atlas @RhythmHacks
-- 1st Place in Waterloo EV Challenge - 24 Volt Race - Team Win For LHSS
-- I am also huge sports person, with deep involvements in sports such as soccer, basketball, badminton, weightlifting and many more!
+### What I’ve been building
 
-🚀 Every project serves as a valuable opportunity for learning and growth. I eagerly embrace challenges that expand my skills, consistently seeking ways to push the limits of what I can accomplish.
+- **[Overheard](https://github.com/raedrahman43/OverHeard):** normalized **1M+ feedback records**, reducing research cycles from weeks to hours.
+- **[SpectraSphere](https://github.com/raedrahman43/SpectraSphere):** won the **Snap Inc. API Prize at Hack the North 2025**; **120K+ demo impressions**.
+- **[Chattronix AI](https://github.com/raedrahman43/ChatTronix-AI):** built to **$6K MRR**, reducing clients’ manual operations by **65%**.
+- **[Copilot Bridge](https://github.com/raedrahman43/Copilot-Bridge):** browser-context prototype connecting the page to Microsoft Copilot.
 
-<!---
-raedrahman43/raedrahman43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Previously
+
+- **Microsoft · Product Manager Intern:** AI policy migration prototype; **80% less manual migration time**, working with engineers, security architects, and Fortune 100 companies.
+- **AltaML · AI Product Manager Intern:** AI sales dialer; **30–35% increase in appointment conversions**.
+- **i4i · Software Development Engineer in Test Intern:** identified a **$500K+ operational efficiency gap**.
+
+[See my full portfolio](https://raedrahman.com)
+
+*Raed Rahman*
+
+</details>
